@@ -1,4 +1,4 @@
-name: modules
+name: DS-X.org
 favicon: null
 layout_spectrum: 0.50339
 typography_spectrum: 0.21939
@@ -44,7 +44,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -55,3 +54,7 @@ content:
 title: DS-X.org
 description: ''
 github: true
+url: 'https://thegrid.ai/dsx'
+author:
+  name: MH
+  email: mh@ds-x.org
