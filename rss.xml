@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[modules]]></title>
-        <description><![CDATA[modules]]></description>
-        <link>https://thegrid.ai/modules/</link>
+        <title><![CDATA[DS-X.org]]></title>
+        <description><![CDATA[DS-X.org]]></description>
+        <link>https://thegrid.ai/dsx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 16:00:06 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/modules/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 Oct 2017 12:40:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dsx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Background Test]]></title>
-            <description><![CDATA[<article><h1>Background Test</h1><p>this is about the modules we create</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be10f0cec91c757a49faea7428e3bc896a30e4c2.png"></article>]]></description>
-            <link>https://thegrid.ai/modules/730dc741-1f57-44a1-b1f7-022a7ffa51ac/index.html</link>
-            <guid isPermaLink="false">730dc741-1f57-44a1-b1f7-022a7ffa51ac</guid>
-            <pubDate>Sat, 09 Jan 2016 15:59:49 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af009839-8eb9-4563-8196-c1a6986fd1e0.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b9ef62e-e2f4-4e03-b2fc-0f3f796366af.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e384984f-7913-49a9-b936-1e3ccbc87b2f.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9445ca08-1500-4cbd-b779-b0b0ebde09dd.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53a34a32-78e3-4120-a377-8fd70c7d0773.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c34cb6f-4980-403f-88e9-08c5a2e3f94c.png">]]></description>
+            <link>https://thegrid.ai/dsx/28c87bef-40f0-4863-abbf-caeb33c8cb45/index.html</link>
+            <guid isPermaLink="false">28c87bef-40f0-4863-abbf-caeb33c8cb45</guid>
+            <pubDate>Wed, 25 Oct 2017 12:40:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
