@@ -1,19 +1,4 @@
-name: DS-X.org
-favicon: null
-layout_spectrum: 0.50339
 typography_spectrum: 0.21939
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,12 +10,31 @@ color:
   lightness: 0.11228747083805501
   saturation: 0.875
   rhythmicContrast: 0
-purpose: []
-content: []
-title: DS-X.org
-description: ''
 github: true
-url: 'https://thegrid.ai/dsx'
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50339
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 author:
   name: MH
   email: mh@ds-x.org
+name: DS-X.org
+url: 'https://thegrid.ai/dsx'
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Flow
+    id: 28c87bef-40f0-4863-abbf-caeb33c8cb45
+    type: content
+favicon: null
+title: DS-X.org
+content: []
+description: ''
+purpose: []
